@@ -8,10 +8,10 @@ Me gusta tocar el piano.
 
 
 # Lo que me gusta 
-Me gusta escuchar música, lo hago todo el tiempo
-Me gusta manejar, autos, motos, bicicletas y patínes eléctricos.
-Adoro intentar traducir todo en otro idioma, o bueno, tratar.
-Me gusta ordenar cosas y arreglar misplantas.
+1. Me gusta escuchar música, lo hago todo el tiempo
+2. Me gusta manejar, autos, motos, bicicletas y patínes eléctricos.
+3. Adoro intentar traducir todo en otro idioma, o bueno, tratar.
+4. Me gusta ordenar cosas y arreglar misplantas.
 
 # Enlace a mi usuario de GitHub
 https://github.com/rtkaleb
